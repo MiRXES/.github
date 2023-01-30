@@ -4,7 +4,7 @@
 
 🌈 Contribution guidelines  
 > __Note__  
-- Please $\color{red}{FORK}$ the repository if you'd like to edit/change/develop before merging  
+- Please $\textbf{\color{red}{FORK}}$ the repository if you'd like to edit/change/develop before merging  
 
 👩‍💻 Useful resources - TBA  
 
