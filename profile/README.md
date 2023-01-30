@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋. This is the public profile for MiRXES Genomics Github pages
 
 <!--
 
